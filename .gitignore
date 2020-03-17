@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 
-./hereWeGo-api/here-ids.txt
+hereWeGo-api/here-ids.txt
 
